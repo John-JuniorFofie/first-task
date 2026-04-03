@@ -333,6 +333,7 @@ background-color:orangered;
 
 .skills-grid {
     display: flex;
+    flex-wrap: wrap;
     gap: 30px;
     justify-content: center;
 }
