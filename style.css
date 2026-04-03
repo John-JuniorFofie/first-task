@@ -368,7 +368,6 @@ background-color:orangered;
 
 .skill-category ul li::before {
     content: '▹';
-    position: absolute;
     left: 0;
     color: var(--primary-color);
 }
