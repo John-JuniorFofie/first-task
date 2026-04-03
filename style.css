@@ -281,13 +281,13 @@ section {
 }
 .comp{
     display: flex;
-      flex-wrap:wrap;
+    flex-wrap:wrap;
     flex-direction: column;
     gap: 2vh;
 }
 .real{
     display: flex;
-      flex-wrap:wrap;
+    flex-wrap:wrap;
     justify-content: space-between;
     color:white;
 }
@@ -332,14 +332,14 @@ background-color:orangered;
 
 
 .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    display: flex;
     gap: 30px;
     justify-content: center;
 }
 
 .skill-category {
     background-color: var(--card-bg);
+    width: 500px;
     padding: 30px;
     border-radius: 10px;
     box-shadow: var(--shadow);
