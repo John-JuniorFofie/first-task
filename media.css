@@ -108,9 +108,7 @@ background-color:orangered;
     }
     }
   
-    .bigger{
-        
-    }
+    
     nav ul{
         gap:20px;
         flex-direction: column;
@@ -161,12 +159,7 @@ background-color:orangered;
 }
 .note{
     width: 350px;
-    p{
-    /* text-align: center; */
-  }
-  h3{
-    /* text-align: center; */
-  }
+  
 }
 .divide{
     img{
@@ -316,12 +309,7 @@ background-color:orangered;
 }
 .note{
     width: 350px;
-    p{
-    /* text-align: center; */
-  }
-  h3{
-    /* text-align: center; */
-  }
+ 
 }
 
 .pic{ 
@@ -494,9 +482,7 @@ background-color:orangered;
         width: 250px;
         text-align: center;
   }
-  h3{
-    /* text-align: center; */
-  }
+ 
 }
 
 .pic{ 
@@ -629,9 +615,7 @@ background-color:orangered;
     }     
  }
  @media screen  and (min-width:2560px) {
-    .intro{
-         /* height: 0vh; */
-    }
+   
    
 
 .img img{
@@ -640,7 +624,7 @@ background-color:orangered;
 
 .text{
     color:white;
-    font-size:;
+   
     animation:fadeslidedown 1s ease-in forwards;
    p{
     font-size:50px;
